@@ -14,10 +14,6 @@ public class Gato extends Animal{
         this.isSiames = isSiames;
     }
     
-    public void aumentarIdade(){
-        setIdade(getIdade() + 1);
-    }
-    
     public void miar(){
         System.out.println("to miando");
     }

@@ -7,6 +7,6 @@ public class MainApplication {
 
         Cachorro catiorin = new Cachorro("thor", true, 3, "médio");
         catiorin.aumentarIdade();
-        System.out.println("catiorin idade +1: "+catiorin.getIdade());   
+        System.out.println("catiorin idade +1: "+catiorin.getIdade());
     }
 }

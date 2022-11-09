@@ -24,8 +24,4 @@ public class Cachorro extends Animal {
         System.out.println("to mordendo");
     }
 
-    public void aumentarIdade(){
-        setIdade(getIdade() + 1);
-    }
-
 }

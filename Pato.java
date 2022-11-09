@@ -14,8 +14,4 @@ public class Pato extends Animal{
         this.corPena = corPena;
     }
     
-    public void aumentarIdade(){
-        setIdade(getIdade() + 1);
-    }
-    
 }
